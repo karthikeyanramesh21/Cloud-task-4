@@ -10,7 +10,7 @@ DOMAIN: CLOUD COMPUTING
 
 DURATION: 4 WEEEKS
 
-MENTOR: NEELA SANTOSH
+
 
 Objective:
 To demonstrate cloud security implementation using secure storage, access control, and data encryption — using free tools without installations.
